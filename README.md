@@ -9,8 +9,8 @@ https://docs.microsoft.com/bs-latn-ba/azure/azure-functions/functions-create-fir
 
 Create the resource group
 
-´´´
+```
 az group create \
   --name myResourceGroup \
   --location "northeurope"
-  ´´´
+ ```
