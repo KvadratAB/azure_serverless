@@ -6,6 +6,7 @@ https://docs.microsoft.com/bs-latn-ba/azure/azure-functions/functions-create-fir
 
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-add-parameters?tabs=azure-cli
 
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-infrastructure-as-code
 
 ### Steps
 
