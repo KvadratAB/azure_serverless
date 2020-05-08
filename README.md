@@ -17,3 +17,6 @@ az group create \
   --name myResourceGroup \
   --location "northeurope"
  ```
+
+## Templates
+https://github.com/Azure/azure-quickstart-templates
