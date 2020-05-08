@@ -1,8 +1,10 @@
 # Azure serverless
 
 ## Resources
-We followed this guide:
+
 https://docs.microsoft.com/bs-latn-ba/azure/azure-functions/functions-create-first-azure-function-azure-cli?tabs=bash%2Cbrowser&pivots=programming-language-javascript
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-add-parameters?tabs=azure-cli
 
 
 ### Steps
